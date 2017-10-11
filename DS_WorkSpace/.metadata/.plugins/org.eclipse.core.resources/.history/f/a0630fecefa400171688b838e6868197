@@ -1,0 +1,39 @@
+package com.rakesh.ds;
+
+public class Stack {
+
+	// initalizing the array for stack implementation
+	static final int MAX = 100;
+	int top;
+	int a[] = new int[MAX];
+
+	boolean isEmpty() {
+		return (top < 0);
+	}
+
+	// constructor to initialize stack top
+	Stack() {
+		top = -1; // at first array position is not started
+	}
+
+	// used for inserting an element
+	boolean push(int x) {
+		if (top >= MAX) {
+			System.out.println("Stack over flow");
+			return false;
+		} else {
+			a[++top] = x;
+			return true;
+		}
+	}
+
+	// used to remove an element
+	int pop() {
+		
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.rakesh.test;
+
+public class HashSetEg {
+
+	public static void main(String[] args) {
+
+	}
+
+}

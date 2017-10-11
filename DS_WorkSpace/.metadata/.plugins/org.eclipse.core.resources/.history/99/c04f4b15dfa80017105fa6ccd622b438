@@ -1,0 +1,9 @@
+package com.rakesh.test;
+
+public class LinkedListEg {
+
+	public static void main(String[] args) {
+
+	}
+
+}

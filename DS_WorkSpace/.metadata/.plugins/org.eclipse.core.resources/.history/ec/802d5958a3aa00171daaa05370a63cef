@@ -1,0 +1,17 @@
+package com.test.basics;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapEgArr {
+
+	public static void main(String[] args) {
+		Map<String,String> map = new HashMap<String,String>();
+		Map<String,Integer> map1 = new HashMap<String,Integer>();
+		
+		
+		
+		String arr[] = {"a","s","f","h","e","n","d","s","e","n","h","j","g","l","a","a","c","v","b","n","e","q","f"};
+		
+
+}

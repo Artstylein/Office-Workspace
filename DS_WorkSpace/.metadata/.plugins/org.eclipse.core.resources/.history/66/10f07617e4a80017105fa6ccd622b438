@@ -1,0 +1,29 @@
+package com.rakesh.test;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class ListInterface {
+
+	public static void main(String[] args) {
+		ArrayList<String> arr = new ArrayList<String>();
+		arr.add("test1");
+		arr.add("test2");
+		arr.add("test3");
+		arr.add("test4");
+		arr.add(test6)
+		
+		for(String s :arr){
+			System.out.println(s);
+		}
+		
+		System.out.println(" ");
+		
+		Iterator itr = arr.iterator();
+		while(itr.hasNext()){
+			System.out.println(itr.next());
+		}
+}
+	}
+
+}

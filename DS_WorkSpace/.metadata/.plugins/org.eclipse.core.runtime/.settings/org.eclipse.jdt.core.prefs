@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/126820/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+org.eclipse.jdt.core.compiler.compliance=1.8
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.source=1.8
+org.eclipse.jdt.core.userLibrary.Struts=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Users/126820/.m2/repository/org/apache/struts/struts2-core/2.3.1.2/struts2-core-2.3.1.2.jar"/>\r\n\t<archive path\="C\:/Users/126820/.m2/repository/org/apache/struts/xwork/xwork-core/2.3.1.2/xwork-core-2.3.1.2.jar"/>\r\n\t<archive path\="C\:/Users/126820/.m2/repository/commons-lang/commons-lang/2.5/commons-lang-2.5.jar"/>\r\n\t<archive path\="C\:/Users/126820/.m2/repository/ognl/ognl/3.0.4/ognl-3.0.4.jar"/>\r\n\t<archive path\="C\:/Users/126820/.m2/repository/javassist/javassist/3.11.0.GA/javassist-3.11.0.GA.jar"/>\r\n\t<archive path\="C\:/Users/126820/.m2/repository/asm/asm/3.3/asm-3.3.jar"/>\r\n\t<archive path\="C\:/Users/126820/.m2/repository/asm/asm-commons/3.3/asm-commons-3.3.jar"/>\r\n\t<archive path\="C\:/Users/126820/.m2/repository/asm/asm-tree/3.3/asm-tree-3.3.jar"/>\r\n\t<archive path\="C\:/Users/126820/.m2/repository/org/freemarker/freemarker/2.3.18/freemarker-2.3.18.jar"/>\r\n\t<archive path\="C\:/Users/126820/.m2/repository/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar"/>\r\n\t<archive path\="C\:/Users/126820/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.jar"/>\r\n</userlibrary>\r\n

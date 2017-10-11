@@ -1,0 +1,20 @@
+package com.rakesh.test;
+
+import java.util.Haslhset;
+import java.util.LinkedHaslhset;
+
+public class LinkedHaslhsetEg {
+
+	public static void main(String[] args) {
+		
+		LinkedHaslhset<String> llhs = new LinkedHaslhset<String>();
+		
+		lhs.add("Tom");
+		lhs.add("Rick");
+		lhs.add("harry");
+		lhs.add("Teddy");
+		lhs.add("Rick");
+		lhs.add("Tom");
+	}
+
+}

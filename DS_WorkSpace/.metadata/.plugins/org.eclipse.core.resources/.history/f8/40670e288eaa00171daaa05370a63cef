@@ -1,0 +1,14 @@
+package com.test.basics;
+
+public class TestArray {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	public void fetch(String s){
+		String arr[] = {"a","a","b","c"};
+		int count,j=0;
+		
+	}
+}

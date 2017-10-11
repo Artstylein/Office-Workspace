@@ -1,0 +1,31 @@
+package com.rakesh.queue;
+
+import java.util.PriorityQueue;
+
+public class PriorityQueueEg {
+
+	public static void main(String[] args) {
+		PriorityQueue<String> pq = new PriorityQueue<String>();
+		
+		pq.add("First");
+		pq.add("Second");
+		pq.add("Third");
+		pq.add("Fourth");
+		pq.add("Fifth");
+		pq.add("First");
+		
+		System.out.println("Queue : " + pq);
+		
+		PriorityQueue<String> pq2 = new PriorityQueue<String>();
+		pq2.addAll(pq);
+	
+		System.out.println("Queue Peek "+pq.peek());
+		System.out.println("Queue Poll "+pq.poll());
+		
+		System.out.println("Queue peek of pq2 : " + pq2);
+		System.out.println("Queue after poll : " + pq);
+		
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.rakesh.test;
+
+import java.util.TreeMap;
+
+public class TreeMapEg {
+
+	public static void main(String[] args) {
+			TreeMap<Integer,String> tm = new TreeMap();
+			
+	}
+
+}

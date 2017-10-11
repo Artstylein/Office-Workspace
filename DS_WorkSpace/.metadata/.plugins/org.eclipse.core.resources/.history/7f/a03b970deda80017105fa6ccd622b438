@@ -1,0 +1,10 @@
+package com.rakesh.test;
+
+public class LinkedHashSetEg {
+
+	public static void main(String[] args) {
+		
+		LinkedHashSet<String> lhs = new LinkedHashSet<String>();
+	}
+
+}

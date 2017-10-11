@@ -1,0 +1,34 @@
+package com.rakesh.ds;
+
+public class Stack {
+
+	// initalizing the array for stack implementation
+	static final int MAX = 100;
+	int top;
+	int a[] = new int[MAX];
+
+	boolean isEmpty() {
+		return (top < 0);
+	}
+	
+	Stack(){
+		top = -1
+	}
+
+	// used for inserting an element
+	boolean push(int x) {
+		return false;
+
+	}
+
+	// used to remove an element
+	int pop() {
+		return 0;
+
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,32 @@
+package com.rakesh.test;
+
+import java.util.HashSet;
+
+public class HashSetEg {
+
+	public static void main(String[] args) {
+		HashSet<String> hs = new HashSet<String>();
+		
+		hs.add("Tom");
+		hs.add("Rick");
+		hs.add("harry");
+		hs.add("Teddy");
+		hs.add("Rick");
+		hs.add("Tom");
+		
+		System.out.println(hs);
+		
+		Book b1 = new Book("Fate","Rakesh",10,23);
+		Book b2 = new Book("Fire","Tom",13,24);
+		Book b3 = new Book("Water","Ted",15,25);
+		Book b4 = new Book("Wind","Atom",18,26);
+		
+		HashSet<Book> hs2 = new HashSet<Book>();
+		
+		hs2.add(b1);
+		hs2.add(b2);
+		hs2.add(b2);
+		hs2.add(b2);
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.rakesh.test;
+
+import java.util.LinkedList;
+
+public class LinkedListEg {
+
+	public static void main(String[] args) {
+		LinkedList ll = new LinkedList();
+		
+	}
+
+}

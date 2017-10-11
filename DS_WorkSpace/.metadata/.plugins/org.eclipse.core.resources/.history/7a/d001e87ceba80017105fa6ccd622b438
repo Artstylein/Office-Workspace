@@ -1,0 +1,11 @@
+package com.rakesh.test;
+
+import java.util.HashSet;
+
+public class HashSetEg {
+
+	public static void main(String[] args) {
+		HashSet<String> hs = new HashSet();
+	}
+
+}

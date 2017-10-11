@@ -1,0 +1,9 @@
+package com.rakesh.test;
+
+public class HashMapEg {
+
+	public static void main(String[] args) {
+		HashMap hm = new HashMap()
+	}
+
+}

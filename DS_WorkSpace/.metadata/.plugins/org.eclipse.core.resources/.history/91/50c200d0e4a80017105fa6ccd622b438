@@ -1,0 +1,30 @@
+package com.rakesh.test;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.ListIterator;
+
+public class ListInterface {
+
+	public static void main(String[] args) {
+		ArrayList<String> arr = new ArrayList<String>();
+		arr.add("test1");
+		arr.add("test2");
+		arr.add("test3");
+		arr.add("test4");
+		arr.add("test5");
+		
+		System.out.println("Actual Array : " + arr);
+		
+		ListIterator<String> ltrs = arr.listIterator();
+		System.out.print("Forward Iteration : ");
+		while(ltrs.hasNext()){
+			System.out.print(ltrs.next() + " ");
+		}
+		System.out.print("Reverse Iteration : ");
+		while(ltrs.hasPrevious()()){
+			System.out.print(ltrs.previous() + " ");
+		}
+	}
+
+}

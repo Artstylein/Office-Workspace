@@ -1,0 +1,22 @@
+package com.rakesh.ds;
+
+public class Stack {
+
+	
+	
+	//used for inserting element
+	boolean push(int x){
+		return false;
+		
+	}
+	
+	int pop(){
+		return 0;
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.rakesh.test;
+
+import java.util.ArrayList;
+
+public class ArrayListEg {
+
+	public static void main(String[] args) {
+		ArrayList arr = new ArrayList();
+			arr.add("test1");
+	}
+
+}

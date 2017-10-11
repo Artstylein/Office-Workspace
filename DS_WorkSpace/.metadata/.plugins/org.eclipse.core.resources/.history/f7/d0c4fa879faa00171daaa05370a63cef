@@ -1,0 +1,24 @@
+package com.test.basics;
+
+public class ArrayRakesh {
+
+	public static void main(String args[]) {
+
+		int count = 0;
+		// int index =0;
+
+		String[] strarr = { "a", "a", "c" };
+		String input = "c";
+		String strIndex = "";
+
+		// for (String b:strarr)
+
+		for (int index = 0; index <= strarr.length - 1; index++) {
+			if (strarr[index].equals(input)) {
+				count = count + 1;
+				strIndex = strIndex + index;
+			}
+		}
+		System.out.println(input + " -> " + count + strIndex);
+	}
+}

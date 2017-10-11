@@ -1,0 +1,11 @@
+package com.rakesh.test;
+
+public class Book {
+
+	String Name;
+	String Author;
+	int quantity,id;
+	
+	
+	
+}

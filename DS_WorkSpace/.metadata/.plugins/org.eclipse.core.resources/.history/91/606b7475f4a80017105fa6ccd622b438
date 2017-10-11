@@ -1,0 +1,12 @@
+package com.rakesh.test;
+
+import java.util.HashMap;
+
+public class HashMapEg {
+
+	public static void main(String[] args) {
+		HashMap hm = new HashMap();
+		
+	}
+
+}

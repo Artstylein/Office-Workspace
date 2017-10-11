@@ -1,0 +1,31 @@
+package com.rakesh.arraylist;
+
+import java.util.Arrays;
+
+public class Rotation {
+	static int temp;
+
+	public static void main(String[] args) {
+
+		int[] arr = { 3, 2, 4, 8, 6, 1, 5, 7 };
+		int len = arr.length;
+
+		// Print array
+		for (int i = 0; i < len - 1; i++) {
+			temp = arr[i];
+			arr[i] = arr[i+1];
+			arr[i+1]=temp;
+			// rotate(arr,5,len);
+		}
+		
+		
+	}
+
+	public static void rotate(int[] arr, int rot, int l) {
+
+		for (int j = 0; j < rot; j++) {
+
+		}
+	}
+
+}

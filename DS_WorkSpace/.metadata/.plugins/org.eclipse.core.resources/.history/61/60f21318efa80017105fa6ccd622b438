@@ -1,0 +1,11 @@
+package com.rakesh.test;
+
+import java.util.TreeSet;
+
+public class TreeSetEg {
+
+	public static void main(String[] args) {
+		TreeSet ts = new TreeSet
+	}
+
+}

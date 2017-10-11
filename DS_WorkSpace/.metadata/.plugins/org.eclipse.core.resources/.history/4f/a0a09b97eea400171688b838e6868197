@@ -1,0 +1,17 @@
+package com.rakesh.ds;
+
+public class Stack {
+
+	
+	boolean push(int x){
+		return false;
+		
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

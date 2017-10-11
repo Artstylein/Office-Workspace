@@ -1,0 +1,13 @@
+package com.test.basics;
+
+public class TestArray extends Exception{
+
+	public TestArray(String message, Exception cause) {
+		super(message, cause);
+		// TODO Auto-generated constructor stub
+	}
+
+
+
+
+}

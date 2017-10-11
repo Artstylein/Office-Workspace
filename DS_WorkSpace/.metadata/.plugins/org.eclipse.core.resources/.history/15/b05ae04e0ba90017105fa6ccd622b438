@@ -1,0 +1,13 @@
+package com.rakesh.test;
+
+public class EnumSetEg {
+
+	enum days{
+		MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY,SUNDAY
+	}
+	
+	public static void main(String[] args) {
+		Set<days> ss = new Set<days>();
+	}
+
+}

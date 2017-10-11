@@ -1,0 +1,30 @@
+package com.rakesh.arraylist;
+
+
+public class Rotation {
+	static int temp;
+
+	public static void main(String[] args) {
+
+		int[] arr = { 3, 2, 4, 8, 6, 1, 5, 7 };
+		int len = arr.length;
+
+		// Print array
+		
+		printArray(arr);
+		
+		
+	}
+	
+	private static void rotate(int[] arr, int i, int len) {
+		
+	}
+
+	public static void printArray(int[]a){
+		for(int j=0; j<a.length;j++){
+			System.out.print(" " + a[j]);
+		}
+	}
+
+
+}

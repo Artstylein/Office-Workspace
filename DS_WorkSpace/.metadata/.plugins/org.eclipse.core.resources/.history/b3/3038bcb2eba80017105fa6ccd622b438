@@ -1,0 +1,19 @@
+package com.rakesh.test;
+
+import java.util.HashSet;
+
+public class HashSetEg {
+
+	public static void main(String[] args) {
+		HashSet<String> hs = new HashSet<String>();
+		hs.add("Tom");
+		hs.add("Rick");
+		hs.add("harry");
+		hs.add("Teddy");
+		hs.add("Rick");
+		hs.add("Tom");
+		
+		
+	}
+
+}

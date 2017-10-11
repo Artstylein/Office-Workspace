@@ -1,0 +1,27 @@
+package com.rakesh.ds;
+
+public class Stack {
+
+	
+	boolean isEmpty(){
+		return false;
+		
+	}
+	
+	//used for inserting an element
+	boolean push(int x){
+		return false;
+		
+	}
+	
+	//used to remove an element
+	int pop(){
+		return 0;
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
